@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "code": 1,
+  "endpoints": {
+    "primary": {
+      "url": "https://panel.swrshop.xyz",
+      "api": "https://panel.swrshop.xyz/api",
+      "websocket": "https://panel.swrshop.xyz/api/ws",
+      "status": false
+    },
+    "secondary": {
+      "url": "https://panel.jhgfdgjjjb.one",
+      "api": "https://panel.jhgfdgjjjb.one/api",
+      "websocket": "https://panel.jhgfdgjjjb.one/api/ws",
+      "status": true
+    },
+    "backup": {
+      "url": "https://panel.nk1.xyz",
+      "api": "https://panel.nk1.xyz/api",
+      "websocket": "https://panel.nk1.xyz/api/ws",
+      "status": true
+    }
+  },
+  "description": "List Mirror"
+}
