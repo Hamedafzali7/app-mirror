@@ -2,13 +2,13 @@
   "success": true,
   "code": 1,
   "endpoints": {
-    "primary": {
+    "secondary": {
       "url": "https://panel.swrshop.xyz",
       "api": "https://panel.swrshop.xyz/api",
       "websocket": "https://panel.swrshop.xyz/api/ws",
       "status": false
     },
-    "secondary": {
+    "primary": {
       "url": "https://panel.jhgfdgjjjb.one",
       "api": "https://panel.jhgfdgjjjb.one/api",
       "websocket": "https://panel.jhgfdgjjjb.one/api/ws",
@@ -22,4 +22,5 @@
     }
   },
   "description": "List Mirror"
+
 }
