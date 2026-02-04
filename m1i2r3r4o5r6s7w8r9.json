@@ -2,16 +2,16 @@
   "success": true,
   "code": 1,
   "endpoints": {
+    "primary": {
+      "url": "https://sdfg1.store",
+      "api": "https://sdfg1.store/api",
+      "websocket": "https://sdfg1.store/api/ws",
+      "status": false
+    },
     "secondary": {
       "url": "https://panel.swrshop.xyz",
       "api": "https://panel.swrshop.xyz/api",
       "websocket": "https://panel.swrshop.xyz/api/ws",
-      "status": false
-    },
-    "primary": {
-      "url": "https://panel.jhgfdgjjjb.one",
-      "api": "https://panel.jhgfdgjjjb.one/api",
-      "websocket": "https://panel.jhgfdgjjjb.one/api/ws",
       "status": true
     },
     "backup": {
@@ -24,3 +24,4 @@
   "description": "List Mirror"
 
 }
+
